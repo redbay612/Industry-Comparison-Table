@@ -1,0 +1,7 @@
+{
+  "name": "迷你倉庫材積單價與收多易差異分析",
+  "description": "迷你倉庫同業材積單價即時試算、規格比價與收多易價差分析管理系統，支援自訂編輯、新增倉庫及 Google 試算表同步。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
